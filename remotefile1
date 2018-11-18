@@ -1,1 +1,8 @@
-this the simple test for creating the file on remote location
+Merge branch 'project1' of https://github.com/pathakmahesh/devopsclasspractise
+this is pulling from remote
+this is change on local repo and commit
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
